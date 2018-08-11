@@ -1,0 +1,16 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "d3-shape": "1.2.0",
+    "expo": "28.0.0",
+    "react": "16.3.1",
+    "react-native": "^0.55.4",
+    "react-native-elements": "0.18.5",
+    "react-native-event-listeners": "^1.0.3",
+    "react-native-modalbox": "^1.6.0",
+    "react-native-svg-charts": "5.2.0",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.6.2"
+  }
+}
